@@ -2,7 +2,7 @@
 
 Crear una estructura semantica 
 
-![Alt text](/imgs/Estructura.png "Imagen")
+![Alt text](/imgs/reto.png "Imagen")
 
 ## Estructura Base
 
