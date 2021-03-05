@@ -1,0 +1,13 @@
+{
+  "name": "demo-front",
+  "version": "1.0.0",
+  "description": "Estructura base para iniciar el desarrollo html y css",
+  "main": "index.html",
+  "repository": "https://github.com/valeriavalles/Demo-front",
+  "author": "https://github.com/valeriavalles",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "^3.4.1"
+  }
+}
